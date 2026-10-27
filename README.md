@@ -1,6 +1,6 @@
 # Shoreline Change Analysis with Python
 
-This Jupyter Notebook provides a complete workflow for analyzing and visualizing shoreline change data. It begins with a simple Python check, then processes multiple datasets of transect data, calculating key metrics like Net Shoreline Movement (NSM) and End Point Rate (EPR), and generating insightful plots to understand coastal erosion and accretion patterns over time.
+This Jupyter Notebook (Metaponto Coastaline Analysis) provides a complete workflow for analyzing and visualizing shoreline change data. It begins with a simple Python check, then processes multiple datasets of transect data, calculating key metrics like Net Shoreline Movement (NSM) and End Point Rate (EPR), and generating insightful plots to understand coastal erosion and accretion patterns over time. The photo interpretation results are in the file Results_Metaponto_CommonTransects_1950_2026_Final while the original 144 digitilized photointerpretation points are in the PhotoInterpreted_shoreline_20260727_EPSG32633 file.
 
 **Key Features**
 
