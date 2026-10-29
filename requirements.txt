@@ -12,3 +12,7 @@ tifffile
 openpyxl
 ipython
 jupyterlab
+rasterio
+geopandas
+
+
